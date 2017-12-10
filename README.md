@@ -28,5 +28,8 @@ Bitcoin-Chinese-Community-Wiki 致力於 探討 比特幣的技術原理，包�
 * [幣託BitoEX](https://www.bitoex.com/) --- [DATAGOVTW 資料臺灣](https://www.1111.com.tw/job-bank/company-descriptio)  
 * [Maicoin](https://www.maicoin.com/zh-TW) --- [DATAGOVTW 資料臺灣](http://datagovtw.com/company.php?id=54687323)
 
+## 虛擬貨幣兌換、轉換
+* [Changer.com](http://www.changer.com/?ref=g9696969)：提供美金PerfectMoney,AdvCash、比特幣、以太坊、萊特幣等…數十種加密貨幣相互轉換。
+
 ## 比特幣錢包推薦
-* [Bitcoin.org](https://bitcoin.org/zh_TW/choose-your-wallet)：在這裡有支援個平台的比特幣錢包，可以在這裡挑選適合自己的錢包
+* [Bitcoin.org](https://bitcoin.org/zh_TW/choose-your-wallet)：在這裡有支援個平台的比特幣錢包，可以在這裡挑選適合自己的錢包。
